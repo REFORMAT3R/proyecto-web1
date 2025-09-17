@@ -1,0 +1,1 @@
+console.log("Conexión simulada a la base de datos...");
